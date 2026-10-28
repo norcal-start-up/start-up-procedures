@@ -2,7 +2,7 @@
 
 Everything supervisors run in Airtable lives in the **Start-Up Hub**. You work in it through the **Service Workspace** pages.
 
-> Note: The Dispatch Board, Job Tracker, and SOP Checklist each have their own guide. This page covers the rest: the Coverage Board, the Crew page, forecast emails, holidays, and what techs see.
+> Note: The Dispatch Board, Job Tracker, and SOP Checklist each have their own guide. This page covers the rest: the Coverage Board, the Crew page, forecast emails, holidays, tools, and what techs see.
 
 <div class="clear"></div>
 
@@ -20,6 +20,8 @@ Everything supervisors run in Airtable lives in the **Start-Up Hub**. You work i
 <tr><td>SOP Checklist</td><td>The master list every new job copies</td></tr>
 <tr><td>Crew</td><td>Add, edit, or retire technicians</td></tr>
 <tr><td>Holidays</td><td>Union holiday rules (they reach the calendar on their own)</td></tr>
+<tr><td>Tool Assignments</td><td>Who has which tools right now, and what came back</td></tr>
+<tr><td>Tool List</td><td>The approved tool list and standard vehicle kit</td></tr>
 <tr><td>My Email Settings</td><td>Turn your forecast emails on or off</td></tr>
 </tbody>
 </table>
@@ -116,6 +118,32 @@ Nobody adds holidays by hand. Each honored holiday lands on every matching tech'
 - **Date Override:** use only when the calculated date is wrong. It replaces the date until that day passes.
 - **Job booked on a holiday?** The bar turns to the holiday-warning color with the holiday's name. Nothing is blocked, so paid holiday work can still be booked.
 - **Each fall,** check **Date Next Year** on the Holidays page against the new union schedule.
+
+</div> </details>
+
+<details class="accordion"> <summary>Tools</summary> <div class="accordion-body">
+
+**Tool Assignments** groups every issued tool under the tech who has it. **Out now** shows what's still in the field, and **Returned** shows the history.
+
+<div class="numbered-group">
+<h4>Issue a tool</h4>
+<ol>
+<li>On <strong>Tool Assignments</strong>, add a row under the tech.</li>
+<li>Pick the <strong>Tool</strong>, then set <strong>Qty</strong> and <strong>Date Issued</strong>.</li>
+<li>For meters and other tracked equipment, add the <strong>Serial / Asset #</strong>.</li>
+</ol>
+</div>
+
+<div class="numbered-group">
+<h4>Take a tool back</h4>
+<ol>
+<li>Open the row and fill in <strong>Date Returned</strong>.</li>
+<li>It moves to <strong>Returned</strong>, and the tech's <strong>Tools Out</strong> count drops by one.</li>
+</ol>
+</div>
+
+- **Someone leaving?** Check their **Tools Out** count on the Crew page. It should be 0 before you untick Active.
+- **Tool List:** add, rename, or retire tools here. Untick **Active** to retire a tool without losing its history. **In Standard Kit** marks what every new vehicle gets.
 
 </div> </details>
 
