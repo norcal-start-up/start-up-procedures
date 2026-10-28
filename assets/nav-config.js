@@ -18,6 +18,15 @@
 const SOP_LIBRARY = [
   /* ---------- Supervisor: Airtable dispatch + job tracking guides ---------- */
   {
+    id: "start-up-hub",
+    title: "Start-Up Hub",
+    blurb: "Every Airtable page, plus coverage, crew, and forecast emails.",
+    file: "sops/supervisor-start-up-hub.md",
+    group: "Supervisor tools",
+    roles: ["supervisor"],
+    featured: ["supervisor"]
+  },
+  {
     id: "dispatch-board",
     title: "Dispatch Board",
     blurb: "Book, move, and split assignments on the Airtable timeline.",

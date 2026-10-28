@@ -129,8 +129,8 @@ Each assignment is one record with a technician, job, type, and date range.
 
 <ol class="chunked-list">
 <li>Everything happens on the <strong>Crew</strong> page.</li>
-<li>Enter their <strong>Name</strong> and <strong>Email</strong>, link their <strong>Employee</strong> record, and tick <strong>Active</strong>. (New hires from onboarding arrive with all of this done.)</li>
-<li><strong>Union</strong> and <strong>Home Location</strong> fill in from their Employee record, and their bar color follows the union. A union or location change goes through HR as a Role Change, and the board updates on the effective date.</li>
+<li>Click <strong>+</strong> at the bottom of the list and fill in <strong>Name</strong>, <strong>Team</strong>, <strong>Role</strong>, <strong>Union Local</strong>, <strong>Location</strong>, <strong>Email</strong>, and <strong>Supervisor</strong>. <strong>Active</strong> ticks itself.</li>
+<li><strong>Union Local</strong> sets their bar color and holidays. Change it on the Crew page when it changes.</li>
 <li>Book their first assignment as usual.</li>
 <li><strong>Someone leaving?</strong> Untick <strong>Active</strong> on the Crew page. They drop off the schedule email and the active list, but their history stays intact.</li>
 </ol>
