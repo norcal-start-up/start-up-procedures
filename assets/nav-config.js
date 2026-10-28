@@ -201,5 +201,5 @@ const ROLE_SWITCHER = {
 };
 
 // Used for the "Edit this page" link at the bottom of every SOP.
-const REPO = "crystal-jeffers/start-up-procedures";
+const REPO = "norcal-start-up/start-up-procedures";
 const BRANCH = "main";

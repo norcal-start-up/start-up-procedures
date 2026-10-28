@@ -2,7 +2,7 @@
 
 Standard operating procedures for the Southland NorCal Start-Up team, published with GitHub Pages.
 
-**Live site:** https://crystal-jeffers.github.io/start-up-procedures/
+**Live site:** https://norcal-start-up.github.io/start-up-procedures/
 
 The site opens on the Supervisor view. Each role has its own home page that shows only the SOPs for that role:
 
